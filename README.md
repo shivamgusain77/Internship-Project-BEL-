@@ -1,7 +1,6 @@
 # Internship-Project-BEL-
 
 
-# Intership-Project
 
 Designed Maintenance Monitor Display of Computer Based Interlocking(CBI) for Delhi Metro Rail Corporation(DMRC) using QML and Qt Creator.
 
